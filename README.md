@@ -8,10 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Byasadeba" alt="Byasadeba" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack Web Development**
+- 🌱 I’m currently learning in **Full stack Web Development**
 
 
-- 📫 How to reach me **chandrashekhargawda2000@gmail.com **
+- 📫 How to reach me **chandrashekhargawda2000@gmail.com ** 
 
 - ⚡ Fun fact **I Love Coding**
 
