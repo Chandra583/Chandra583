@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif"/>
 
-/////<p align="left"> <img src="https://komarev.com/ghpvc/?username=Byasadeba&label=Profile%20views&color=0e75b6&style=flat" alt="Byasadeba" /> </p>
+/////<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandra583&label=Profile%20views&color=0e75b6&style=flat" alt="Chandra583" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Byasadeba" alt="Byasadeba" /></a> </p>
 
