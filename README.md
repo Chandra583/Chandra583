@@ -1,5 +1,4 @@
-![MasterHead]
-(https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Chandrashekhar K S</h1>
 <h3 align="center">A passionate Full Stack Webdeveloper from India</h3>
 <img align="right" alt="Coding" width="230" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif"/><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chandra583" alt="Chandra583" /></a> </p>
